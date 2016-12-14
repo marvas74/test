@@ -1,0 +1,6 @@
+# ignore compiled python 2 files
+*.pyc
+#ignore python 3
+__pychache__
+#emacs ~
+*~
